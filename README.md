@@ -1,3 +1,7 @@
+this model is pretrained by small dataset from :
+https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/data
+
+
 ---
 pipeline_tag: sentence-similarity
 tags:
